@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Carolina Chaves 👋
 
-<!--
-**cchaves42/cchaves42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | .NET | C# | Web Applications & APIs
 
-Here are some ideas to get you started:
+Software Developer with experience in backend and web development, specializing
+in the .NET ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Backend:** C# · .NET · ASP.NET Core · Entity Framework · Dapper  
+**Frontend:** Angular · React · TypeScript  
+**Databases:** SQL Server · PostgreSQL  
+**Architecture:** Microservices · Micro-frontends  
+**Messaging:** Kafka · RabbitMQ  
+**Testing:** xUnit · Tests Container · SpecFlow  ·
+**DevOps:** Git · Azure DevOps · Jenkins · CI/CD
+
+### 💼 Experience
+
+- Development and maintenance of web applications and APIs
+- Microservices and micro-frontends
+- Relational databases and ORMs
+- Automated testing and CI/CD
+- Agile development with Scrum and Kanban
+
+### 🎓 Education
+
+**PUC Minas** — Postgraduate in Software Engineering · 2025–2026  
+**Estácio** — Systems Analysis and Development · 2020–2023
+
+### 🌎 Languages
+
+Portuguese — Native · English — Intermediate
+
+### 📫 Connect with me
+
+[LinkedIn](www.linkedin.com/in/cchaves42)
