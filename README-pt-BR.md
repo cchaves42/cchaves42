@@ -1,5 +1,7 @@
 # Olá, eu sou Carolina Chaves 👋
 
+🇺🇸 [Read in English](README.md)
+
 ### Desenvolvedora de Software | .NET | C# | Aplicações Web & APIs
 
 Desenvolvedora de Software com experiência em desenvolvimento backend e web,
